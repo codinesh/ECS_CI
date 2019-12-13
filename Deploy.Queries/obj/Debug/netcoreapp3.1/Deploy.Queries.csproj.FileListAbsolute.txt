@@ -1,0 +1,10 @@
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\bin\Debug\netcoreapp3.1\Deploy.Queries.exe
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\Deploy.Queries.csprojAssemblyReference.cache
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\staticwebassets\Deploy.Queries.StaticWebAssets.Manifest.cache
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\staticwebassets\Deploy.Queries.StaticWebAssets.xml
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\Deploy.Queries.AssemblyInfoInputs.cache
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\Deploy.Queries.AssemblyInfo.cs
+C:\Users\codin\source\repos\Deploy\Deploy.Queries\obj\Debug\netcoreapp3.1\Deploy.Queries.RazorTargetAssemblyInfo.cache
